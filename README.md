@@ -27,7 +27,7 @@
   Citations: 94<br>
   Paper link: <https://arxiv.org/abs/2009.12991><br>
   Code link: <https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch><br>
-  My Note(or slides) link: [slide](file:///D:/DeepLearning/Long-Tailed/paper/2020/Zchill-notes-NeurIPS-2020-Long Tailed%20Classification%20by%20Keeping%20the%20Good%20and%20Removing%20the%20Bad%20Momentum%20Causal%20Effect.pdf)<br>
+  My Note(or slides) link: [slide](https://github.com/Zcchill/zchill-note/blob/main/Note/Zchill-notes-NeurIPS-2020-Long-Tailed%20Classification%20by%20Keeping%20the%20Good%20and%20Removing%20the%20Bad%20Momentum%20Causal%20Effect.pdf)<br>
 
 
 
