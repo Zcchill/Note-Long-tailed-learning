@@ -56,7 +56,7 @@
   
   ​				  (Community code, pytorch): <https://github.com/Chumsy0725/logit-adj-pytorch>
   
-  My Note(or slides) link: [slide](https://github.com/Zcchill/zchill-note/blob/main/Note/Zchill-notes-NeurIPS-2020-Long-Tailed%20Classification%20by%20Keeping%20the%20Good%20and%20Removing%20the%20Bad%20Momentum%20Causal%20Effect.pdf)<br>
+  My Note(or slides) link: [slide](https://github.com/Zcchill/zchill-note/blob/main/Note/Zchill-notes-ICLR-2021-Long%20tail%20learning%20via%20logit%20adjustment.pdf)<br>
 
 
 
