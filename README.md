@@ -6,8 +6,8 @@
 ​	The contents of each paper's review are  presented as following: Title, authors, Publication, Submission time,    Citations, Paper link, Code link, Note(or slides) link. The ''Submission time'' is the first time that the author submit the paper in arxiv.
 
 
-
-
+<br>
+<br>
 ---
 ## Survey
 
@@ -22,7 +22,8 @@
   My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Deep%20Long-Tailed%20Learning-A%20Survey.pdf)<br>
 
 
-
+<br>
+<br>
 ---
 ## Rebalanced-learning
 
@@ -53,7 +54,8 @@
   
   
 
-
+<br>
+<br>
 ---
 ## Information augmentation
 
@@ -70,7 +72,8 @@
 
 
 
-
+<br>
+<br>
 ---
 ## Module Improvement
 
