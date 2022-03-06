@@ -100,4 +100,30 @@
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/ICLR-2021-LONG-TAILED%20RECOGNITION%20BY%20ROUTING%20DIVERSE.pdf)<br>
 
+<br>
+
+## Other reletive paper (not directly concerned with long-tail learning)
+---
+
+- ##### Attention Is All You Need
+
+  Authors: Ashish Vaswani(Facebook)<br>
+  Publication: NeurlPS-2017<br>
+  Submission time:(first version in arxiv): 12 Jun 2017<br>
+  Citations: 9999<br>
+  [Paper link](<https://arxiv.org/abs/1706.03762>)<br>
+  [Code link (Community code, pytorch)](<https://github.com/graykode/nlp-tutorial>)<br>
+
+  My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Attention_Is_All_You_Need.pptx)<br>
  
+ 
+- ##### Training Generative Adversarial Networks with Limited Data
+
+  Authors: Tero Karras (Nvidia)<br>
+  Publication: NeurlPS-2020<br>
+  Submission time:(first version in arxiv): 11 Jun 2020<br>
+  Citations: 334<br>
+  [Paper link](<https://arxiv.org/abs/2006.06676>)<br>
+  [Code link (official code)](<https://github.com/NVlabs/stylegan2-ada>)<br>
+
+  My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurlPS2020-Training%20Generative%20Adversarial%20Networks%20with.pdf)<br>
