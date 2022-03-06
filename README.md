@@ -9,6 +9,7 @@
 <br>
 <br>
 ---
+
 ## Survey
 
 - ##### Long-Tailed Classification by Keeping the Good  and Removing the Bad Momentum Causal Effect<br>
@@ -25,6 +26,7 @@
 <br>
 <br>
 ---
+
 ## Rebalanced-learning
 
 - ##### Long-Tailed Classification by Keeping the Good  and Removing the Bad Momentum Causal Effect<br>
@@ -57,6 +59,7 @@
 <br>
 <br>
 ---
+
 ## Information augmentation
 
 - ##### Rethinking the Value of Labels for Improving Class-Imbalanced Learning
@@ -75,6 +78,7 @@
 <br>
 <br>
 ---
+
 ## Module Improvement
 
 - ##### Decoupling representation and classifier for long-tailed recognition
