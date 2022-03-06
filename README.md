@@ -1,13 +1,9 @@
-# zchill-note
+# Note-Long-tailed-learning
 # Note
 
 ​	This project is a review of the paper that I have read. Those paper for intensive reading will be marked with ''*'' , meanwhile, I'll      submit the corresponding note in the format of markdown or slide if the paper will be shared during my group report.
 
 ​	The contents of each paper's review are  presented as following: ==Title==, ==authors==, ==Publication==, ==Submission time==, ==Citations==, ==Paper link==, ==Code link==, ==Note(or slides) link==. The ''Submission time'' is the first time that the author submit the paper in arxiv.
-
-
-
-## Long tail
 
 
 
