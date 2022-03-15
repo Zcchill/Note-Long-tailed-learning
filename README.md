@@ -102,8 +102,19 @@
 
 <br>
 
-## Other reletive paper (not directly concerned with long-tail learning)
+## Other reletive paper (not directly concerned with long-tail learning, but is useful to solve this problem)
 ---
+
+- ##### Attention Is All You Need
+
+  Authors: Yulin Wang,Gao Huang(Tsinghua)<br>
+  Publication: NeurlPS-2019<br>
+  Submission time:(first version in arxiv): 26 Sep 2019<br>
+  Citations: 42<br>
+  [Paper link](<https://arxiv.org/abs/1909.12220>)<br>
+  [Code link (Community code, pytorch)](<https://github.com/blackfeather-wang/ISDA-for-Deep-Networks>)<br>
+
+  My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Attention_Is_All_You_Need.pptx)<br>
 
 - ##### Attention Is All You Need
 
