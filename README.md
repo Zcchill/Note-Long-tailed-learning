@@ -69,7 +69,16 @@
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurIPS-2020-rethinking-the-value-of-labels-for-improving-class-imbalanced-learning-Paper.pdf)<br>
 
+- ##### MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition
 
+  Authors: Shuang Li<br>
+  Publication: CVPR-2021<br>
+  Submission time:(first version in arxiv): 23 Mar 2021<br>
+  Citations: 9<br>
+  [Paper link](<https://arxiv.org/abs/2103.12579>)<br>
+  [Code link (official code)](https://github.com/BIT-DA/MetaSAug)<br>
+
+  My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurlPS-2019-Implicit-Semantic-Data-Augmentation-for-Deep-Networks.pdf)<br>
 
 <br>
 
@@ -89,7 +98,7 @@
 
 
 
-- ##### Long-tailed Recognition  by Routing Diverse  Distribution-Aware Experts
+- ##### Long-tailed Recognition by Routing Diverse  Distribution-Aware Experts
 
   Authors: Xudong Wang (University of California, Berkeley)<br>
   Publication: ICLR-2021<br>
@@ -112,7 +121,7 @@
   Submission time:(first version in arxiv): 26 Sep 2019<br>
   Citations: 42<br>
   [Paper link](<https://arxiv.org/abs/1909.12220>)<br>
-  [Code link (Community code, pytorch)](<https://github.com/blackfeather-wang/ISDA-for-Deep-Networks>)<br>
+  [Code link (Official code)](<https://github.com/blackfeather-wang/ISDA-for-Deep-Networks>)<br>
 
   My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurlPS-2019-Implicit-Semantic-Data-Augmentation-for-Deep-Networks.pdf)<br>
 
