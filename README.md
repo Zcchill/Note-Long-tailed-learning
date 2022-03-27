@@ -125,6 +125,21 @@
 
   My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurlPS-2019-Implicit-Semantic-Data-Augmentation-for-Deep-Networks.pdf)<br>
 
+  
+
+- ##### Beyond Dropout: Feature Map Distortion to Regularize Deep Neural Networks
+
+  Authors: Yehui Tang(Peking university,Hua wei)<br>
+  Publication: AAAI-2020<br>
+  Submission time:(first version in arxiv): 23 Feb 2020<br>
+  Citations: 13<br>
+  [Paper link](<https://arxiv.org/abs/2002.11022>)<br>
+  [Code link (Official code)](<https://github.com/huawei-noah/Disout>)<br>
+
+  My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/AAAI-2020-Beyond_Dropout-Feature_Map_Distortion_to_Regularize_Deep_Neural_Networks.pdf)<br>
+
+  
+
 - ##### Attention Is All You Need
 
   Authors: Ashish Vaswani(Facebook)<br>
@@ -135,6 +150,8 @@
   [Code link (Community code, pytorch)](<https://github.com/graykode/nlp-tutorial>)<br>
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Attention_Is_All_You_Need.pptx)<br>
+  
+  
 
 
 - ##### Training Generative Adversarial Networks with Limited Data
@@ -147,3 +164,15 @@
   [Code link (official code)](<https://github.com/NVlabs/stylegan2-ada>)<br>
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/NeurlPS2020-Training%20Generative%20Adversarial%20Networks%20with.pdf)<br>
+  
+  
+  
+- ##### EMPIRICAL MARGIN DISTRIBUTIONS AND BOUNDING THE GENERALIZATION ERROR OF COMBINED CLASSIFIERS
+
+  Authors: V. Koltchinskii<br>
+  Publication: The Annals of Statistics-2002<br>
+  Citations: 535<br>
+  [Paper link](<https://arxiv.org/abs/math/0405343>)<br>
+
+  My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/The%20Annals%20of%20Statistics-2002-EMPIRICAL%20MARGIN%20DISTRIBUTIONS%20AND%20BOUNDING%20THE.pdf)<br>
+
