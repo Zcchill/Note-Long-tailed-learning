@@ -109,6 +109,15 @@
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/ICLR-2021-LONG-TAILED%20RECOGNITION%20BY%20ROUTING%20DIVERSE.pdf)<br>
 
+- ##### Trustworthy Long-Tailed Classification
+
+  Authors: Bolian Li<br>
+  Publication: CVPR-2022<br>
+  Submission time:(first version in arxiv): 17 Nov 2021<br>
+  Citations: 0<br>
+  [Paper link](<https://arxiv.org/abs/2111.09030>)<br>
+  [Code link (official code)](<https://github.com/lblaoke/tlc>)<br>
+
 <br>
 
 ## Other reletive paper (not directly concerned with long-tail learning, but is useful to solve this problem)
