@@ -11,13 +11,13 @@
 ## Survey
 ---
 
-- ##### Long-Tailed Classification by Keeping the Good  and Removing the Bad Momentum Causal Effect<br>
+- ##### Deep Long-Tailed Learning: A Survey<br>
 
-  Authors: Kaihua Tang(NTU), Hanwang Zhang(NTU)<br>
-  Publication: NeurIPS-2020<br>
-  Submission time:(first version in arxiv): 28 Sep 2020<br>
-  Citations: 94<br>
-  [Paper link](<https://arxiv.org/abs/2009.12991>)<br>
+  Authors: Yifan Zhang(NUS), Shuicheng Yan(NUS)<br>
+  Publication: arxiv<br>
+  Submission time:(first version in arxiv): 9 Oct 2021<br>
+  Citations: 18<br>
+  [Paper link](<https://arxiv.org/abs/2110.04596>)<br>
   [Code link](<https://github.com/Zcchill/Awesome-LongTailed-Learning>)<br>
   My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Deep%20Long-Tailed%20Learning-A%20Survey.pdf)<br>
 
