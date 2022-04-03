@@ -109,6 +109,16 @@
 
   My Note(or slides) link: [Presentation(slides)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/ICLR-2021-LONG-TAILED%20RECOGNITION%20BY%20ROUTING%20DIVERSE.pdf)<br>
 
+- ##### Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification<br>
+
+  Authors: Beier Zhu(NTU), Hanwang Zhang(NTU)<br>
+  Publication: AAAI-2022<br>
+  Submission time:(first version in arxiv): 29 Dec 2021<br>
+  Citations: 0<br>
+  [Paper link](<https://arxiv.org/abs/2112.14380>)<br>
+  [Code link (official code)](<https://github.com/beierzhu/xerm>)<br>
+  My Note(or slides) link: [Note(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/AAAI-2022-Cross-Domain%20Empirical%20Risk%20Minimization%20for%20Unbiased%20Long-tailed%20Classification.pdf)<br>
+
 - ##### Trustworthy Long-Tailed Classification
 
   Authors: Bolian Li<br>
