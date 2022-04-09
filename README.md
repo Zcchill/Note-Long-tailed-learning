@@ -39,7 +39,7 @@
   
   
 
-- ##### Long tail learning via logit adjustment 
+- ##### Long tail learning via logit adjustment<br> 
 
   Authors: Aditya Krishna Menon (Google)<br>
   Publication: ICLR-2021<br>
@@ -51,16 +51,16 @@
   
   My Note(or slides) link: [Notes(md)](https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/ICLR-2021-Long%20tail%20learning%20via%20logit%20adjustment.pdf)<br>
   
- - ##### Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
+ - ##### Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss<br>
 
-  Authors: Kaidi Cao, Tengyu Ma (Stanford)<br>
-  Publication: NeurlPS-2019<br>
-  Submission time:(first version in arxiv): 18 Jul 2019<br>
-  Citations: 340<br>
-  [Paper link](<https://arxiv.org/abs/1906.07413>)<br>
-  [Code link (official code)](<https://github.com/kaidic/LDAM-DRW>)<br>
+  &emsp;&emsp;Authors: Kaidi Cao, Tengyu Ma (Stanford)<br>
+  &emsp;&emsp;Publication: NeurlPS-2019<br>
+  &emsp;&emsp;Submission time:(first version in arxiv): 18 Jul 2019<br>
+  &emsp;&emsp;Citations: 340<br>
+  &emsp;&emsp;[Paper link](<https://arxiv.org/abs/1906.07413>)<br>
+  &emsp;&emsp;[Code link (official code)](<https://github.com/kaidic/LDAM-DRW>)<br>
   
-  My Note(or slides) link: [Notes(md)]( https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Neurlps-2019-Learning%20Imbalanced%20Datasets%20with%20Label-Distribution-Aware%20Margin%20Loss.pdf)<br>
+  &emsp;&emsp;My Note(or slides) link: [Notes(md)]( https://github.com/Zcchill/Note-Long-tailed-learning/blob/main/Note%20and%20Presentations/Neurlps-2019-Learning%20Imbalanced%20Datasets%20with%20Label-Distribution-Aware%20Margin%20Loss.pdf)<br>
 
 
 <br>
